@@ -1,0 +1,12 @@
+.text-center[id="h3-activity"] {
+ background-color: rgb(187, 123, 187);
+}
+.text-center[id="h3"],#montrow {
+ background-color: rgb(166, 169, 171);
+}
+#h3-mont,#montrow2,#h3-about-1,#h3-about-2{
+ background-color: rgb(235, 210, 163);
+}
+body{
+ background-color: rgb(210, 210, 210);
+}
