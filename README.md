@@ -57,7 +57,8 @@ Clone the project.
 ---
 
 ## Usage
-Projeyi cloneladıktan sonra Visual Studio Code Programında açabilirsiniz.
+After clone the project use Visual Studio Code. 
+You can also open the project by typing the following codes in the terminal.
 
 ```
 cd my-website
