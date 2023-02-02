@@ -51,7 +51,7 @@
 
 ## Installation
 Clone the project.
-> https://github.com/miyendisa/my-website.git
+> https://github.com/aslihanhasar/my-website.git
 
 
 ---
@@ -75,7 +75,7 @@ code .
 ## Author
 **Aslıhan Hasar**
 
-* GitHub: [miyendisa](https://github.com/aslihanhasar)
+* GitHub: [](https://github.com/aslihanhasar)
 * LinkedIn: [aslıhanhasar](https://www.linkedin.com/in/asl%C4%B1hanhasar
   )
 * You can watch the video for details: [youtube](https://youtu.be/YnD1rSRnxvs)
